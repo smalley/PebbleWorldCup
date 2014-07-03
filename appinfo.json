@@ -1,0 +1,18 @@
+{
+  "uuid": "17da1fc5-c436-41de-b98c-101a5df21ca7",
+  "shortName": "WorldCup",
+  "longName": "PebbleWorldCup",
+  "companyName": "",
+  "versionCode": 1,
+  "versionLabel": "0.1.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+        "message": 1,
+        "status": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
